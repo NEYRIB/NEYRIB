@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NEYRIB
 - 👀 I’m interested in Programming for Data Analysis
 - 🌱 I’m currently learning Cloud Data Engineer
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me neyribeiroo@yahoo.com.br, (github) neyrib, 31983787299
+- 💞️ I’m looking to collaborate on Increase productivity
+- 📫 How to reach me neyribeiroo@yahoo.com.br, (github) neyrib, 5531983787299
 
 <!---
 NEYRIB/NEYRIB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
